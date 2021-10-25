@@ -2,7 +2,8 @@
 
 
 ### Sojin Ahn Github 👋 
-<div align=right>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSojinAhn%2Fhit-counter&count_bg=%23272E58&title_bg=%23555555&icon=&icon_color=%23929FB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=right>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSojinAhn%2Fhit-counter&count_bg=%23272E58&title_bg=%23555555&icon=&icon_color=%23929FB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <!--
 **SojinAhn/SojinAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
