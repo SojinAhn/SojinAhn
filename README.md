@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=8ABBE3&height=100&section=header&text=Sojin%20repository&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=8ABBE3&height=100&section=header&text=Sojin%20repository&fontSize=90)
 
 
 ### Sojin Ahn Github 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSojinAhn%2Fhit-counter&count_bg=%23272E58&title_bg=%23555555&icon=&icon_color=%23929FB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
