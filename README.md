@@ -21,6 +21,8 @@
 | FORCDB | |
 | SNPing | |
 | HGTreev2 | |
+| ------ | ------ |
+| bacterial_analysis_result_view | |
 
 
 
