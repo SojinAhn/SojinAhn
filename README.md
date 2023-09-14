@@ -20,7 +20,7 @@
 | ------ | ------ |
 | FORCDB | |
 | SNPing | |
-| HGTreev2 | |
+| HGTreev2 | http://hgtree2.snu.ac.kr/ |
 | ------ | ------ |
 | bacterial_analysis_result_view | |
 
