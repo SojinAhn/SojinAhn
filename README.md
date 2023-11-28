@@ -19,7 +19,7 @@
 | Name | Url |
 | ------ | ------ |
 | FORCDB | |
-| SNPing | |
+| SNPing | http://snping.snu.ac.kr |
 | HGTreev2 | http://hgtree2.snu.ac.kr/ |
 | ------ | ------ |
 | bacterial_analysis_result_view | |
